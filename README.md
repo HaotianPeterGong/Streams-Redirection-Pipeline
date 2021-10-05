@@ -1,4 +1,4 @@
-# Streams-Redirectory-Pipeline
+# Streams-Redirection-Pipeline
 This repository shows how to use pipeline in Bash to manipulate data.
 The sample file used is SampleSuperstoreSales.csv, having 8400 record lines of order, customer, and product info.
 

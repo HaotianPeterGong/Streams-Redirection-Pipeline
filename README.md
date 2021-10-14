@@ -14,7 +14,7 @@ To fully understand key concepts, see [examples](https://github.com/HaotianPeter
 
 ## Data Example
 
-After learning concepts, we would use [SuperstoreSales](https://github.com/HaotianPeterGong/Streams-Redirection-Pipeline/tree/main/Data), which has 8400 record lines of order, customer, and product information to train in a real-world scenario. Functions like sort, unique, and character manipulation are practiced.
+After learning concepts, we would use [SuperstoreSales](https://github.com/HaotianPeterGong/Streams-Redirection-Pipeline/tree/main/Data), which has 8400 record lines of order, customer, and product information, to train in a real-world scenario. Functions like sort, unique, and character manipulation are practiced.
 
 ## Codes
 The [.ipynb](https://github.com/HaotianPeterGong/Streams-Redirection-Pipeline/blob/main/Codes/Stream_Redirection-Code_Demonstration.ipynb) file shows codes with output printing. You can also copy commands from the [.txt](https://github.com/HaotianPeterGong/Streams-Redirection-Pipeline/blob/main/Codes/Stream_Redirection-Code_Demonstration.txt) file, and test on your laptop terminal. Please put the csv file into an appropriate path for testing.
